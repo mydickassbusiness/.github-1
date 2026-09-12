@@ -1,0 +1,8 @@
+
+
+x
+effort to be mirrored.** If you spent 5 minutes having an agent write a document or patch, you should not expect a human to spend hours reviewing and critiquing your submission in detail. If an LLM was used to help generate a patch, it is encouraged to include the original thought that went into the LLM's patch creation process.
+
+6) **Submissions should include tests and any relevant documentation.** If there are no tests in the project, propose adding them whenever possible.
+
+7) **Document your changes.** While working on your submission, you have naturally built a certain understanding of the problem you're trying to solve, including the code area and components it involves and how you think it would be best addressed. Adding a short explanation of your understanding of the problem and the approach you've taken, either in the commit message or in a separate comment on the relevant bug/issue, makes it easier for the reviewer to look through your code changes and understand your thought process.
